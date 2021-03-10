@@ -1,0 +1,8 @@
+---
+-  hosts: local
+   tasks:
+   - name: create new file
+     copy:
+       dest: "/home/ansadmin/task.txt"
+       content:
+        radhika gali
