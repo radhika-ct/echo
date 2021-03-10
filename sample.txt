@@ -6,3 +6,4 @@
   status: touch
 ---
 chandrika gali
+power of humens
