@@ -6,3 +6,4 @@
     path: "/etc/ansible/sample.txt"
     state: touch
 ---
+chnadrika
